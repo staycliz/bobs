@@ -111,7 +111,7 @@ During the course we will have personal real-world exercises helping you start i
 | Shahrima | Akter | https://github.com/ShahrimaAkter | Changing the haelthcare game by AI | AI tools and technologies | Health care specialists |
 | Marina | Pozhidaeva | https://github.com/Marinapozhid/newfile | Data interoperability | Is there a chance for clinicians, software developers and business analysts to communicate easily? | EHR vendors, clinitians, policy stakeholders, clinical pathway stakeholders |
 | TANMAY | CHADHA |  https://github.com/Tanmaytc25/Tanmaytc https://tanmaytc25.github.io/posts/virtual-visits/ | Efficent ambulant care | Virtual Visits - Healthcare on one click Illusion or a distant reality? | Self- practicing doctors or freelancing healthcare workers and people living in remote areas and rural population  | Patients |
-| Stecie | Katusiime | | AI and the future of medicine | | General public |
+| Stecie | Katusiime |https://staycliz.github.io/AI-Breast-Mammography/ | AI and the future of medicine |Machine Learning | General public |
 | Madalina | Lupacescu |https://madalinalupacescu.github.io/PulseOximeter1.github.io/ | EBM | How can technology save you from an instant death? | People that fight Covid-19 at home, people with family history of chronic heart and lung disease |
 | Blessing | Anowai |https://github.com/ChiomasCorner/Blessing-Anowai | AI and the future of medicine | | Ultra Digital Health in Pocket |
 | Ricardo |Mbancho | https://github.com/ricardo-applepie/AI-blog| AI and the future of medicine | Health care on one click | patients |
