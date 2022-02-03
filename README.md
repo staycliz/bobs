@@ -109,12 +109,12 @@ During the course we will have personal real-world exercises helping you start i
 | Michelle | Schmidt |https://michelleschmidt.github.io/| Digital Health | COVID-19 as an opportunity for IT | People interested in IT looking for a career |
 | Chloe | Roberts | https://github.com/chloe-1111/newfile.git | AI and The future of medicine | When AI and Medicine collide | General public |
 | Shahrima | Akter | https://github.com/ShahrimaAkter | Changing the haelthcare game by AI | AI tools and technologies | Health care specialists |
-| Marina | Pozhidaeva | https://github.com/Marinapozhid/newfile | Data interoperability | Is there a chance for clinicians, software developers and business analysts to communicate easily? | EHR vendors, clinitians, policy stakeholders, clinical pathway stakeholders |
+| Marina | Pozhidaeva | https://marinapozhid.github.io/bpmn-health/ | Data interoperability | Is there a chance for clinicians, software developers and business analysts to communicate easily? | EHR vendors, clinitians, policy stakeholders, clinical pathway stakeholders |
 | TANMAY | CHADHA |  https://github.com/Tanmaytc25/Tanmaytc https://tanmaytc25.github.io/posts/virtual-visits/ | Efficent ambulant care | Virtual Visits - Healthcare on one click Illusion or a distant reality? | Self- practicing doctors or freelancing healthcare workers and people living in remote areas and rural population  | Patients |
 | Stecie | Katusiime |https://staycliz.github.io/AI-Breast-Mammography/ | AI and the future of medicine |Machine Learning | General public |
 | Madalina | Lupacescu |https://madalinalupacescu.github.io/PulseOximeter1.github.io/ | EBM | How can technology save you from an instant death? | People that fight Covid-19 at home, people with family history of chronic heart and lung disease |
 | Blessing | Anowai |https://github.com/ChiomasCorner/Blessing-Anowai | AI and the future of medicine | | Ultra Digital Health in Pocket |
-| Ricardo |Mbancho | https://github.com/ricardo-applepie/AI-blog| AI and the future of medicine | Health care on one click | patients |
+| Mbancho Ricardo |Fondungallah kondem | https://ricardo-applepie.github.io/AI-blog/main/2022/01/01/Ai-and-doctors-in-prospect| AI and the future of medicine | Health care on one click | patients |
 | Johnson | Clever | https://cleverjohnson.github.io/Artificial-Intelligence-and-Neuro-oncology/ | Al and the future of medicine | Computer & Machine Vision offering Appropriate Care | Hospitals, Health care practitioners, Investors |
 | Olivia | Okoro | https://github.com/OliviaA22 https://oliviaa22.github.io/ | Opportunities in Digital Health in Germany ? The Investors Perspective | Analogue Health care is wiped out | Health Practitioners, Healthcare Investors |
 | Amit | Debnath | | AI and medical imaging | | |
